@@ -44,7 +44,7 @@ focus    :
   - Low-Level Systems (C / C++)
   - Motion Graphics & Design
 currently: Building things that matter
-interests: gym · Tamil cinema · open source
+interests: Gym · Ai and ML  · open source
 ```
 
 <br clear="right"/>
